@@ -27,12 +27,12 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 
 ## 📅 Registro de Progresso
 
-| Dia | Data       | Atividade                                                             | Projeto                    |
-|-----|------------|-----------------------------------------------------------------------|----------------------------|
-| 1   | 06/08/2025 | Revisão da estrutura do site de bolos + organização do desafio       | Montador de Bolos          |
-| 2   | 07/08/2025 | Refatoração do layout HTML/CSS e aplicação da paleta gourmet         | Montador de Bolos          |
-| 3   | 08/08/2025 | Implementação da navegação por etapas (wizard)                       | Montador de Bolos          |
-| 4   | 09/08/2025 | (em andamento)                                                       | Montador de Bolos          |
+| Dia | Data       | Atividade                                                              | Projeto                    |
+|-----|------------|------------------------------------------------------------------------|----------------------------|
+|✅ 1  | 06/08/2025 | Revisão da estrutura do site de bolos + organização do desafio        | Montador de Bolos          |
+|⏭️ 2  | 07/08/2025 | Refatoração do layout HTML/CSS e aplicação da paleta gourmet          | Montador de Bolos          |
+|⏭️ 3   | 08/08/2025 | Implementação da navegação por etapas (wizard)                       | Montador de Bolos          |
+|⏭️ 4   | 09/08/2025 | (em andamento)                                                       | Montador de Bolos          |
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
