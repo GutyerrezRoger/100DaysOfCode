@@ -34,6 +34,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 3   | 08/08/2025 | Implementação da navegação por etapas (wizard)                       | Montador de Bolos          |
 |✅ 4   | 09/08/2025 |  Lógica de Negócio e Validação Dinâmica                             | Montador de Bolos          |
 |✅ 5   | 10/08/2025 |  Refinamento de UX/UI e Validação de Layout                          | Montador de Bolos          |
+|✅ 6  | 10/08/2025 |  Aprimoramento e Refatoração de UX/UI em JS e CSS                      | Montador de Bolos         |
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
