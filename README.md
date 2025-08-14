@@ -2,14 +2,14 @@
 
 [![100DaysOfCode](https://img.shields.io/badge/100DaysOfCode-In%20Progress-orange.svg)](https://www.100daysofcode.com/)
 
-Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia durante 100 dias consecutivos**, com foco em **prática real**, **melhoria contínua** e **projetos para portfólio**.
+Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia durante 100 dias**, com foco em **prática real**, **melhoria contínua** e **projetos para portfólio**.
 
 ---
 
 ## 📌 Regras que estou seguindo
 
 - Codar pelo menos **1h por dia durante 100 dias**.
-- Registrar todos os dias neste `README`.
+- Registrar os dias neste `README`.
 - Compartilhar os aprendizados (via GitHub e Notion).
 - Ser consistente, mesmo nos dias difíceis.
 - Priorizar projetos reais, funcionais e úteis para o portfólio.
@@ -35,6 +35,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 4   | 09/08/2025 |  Lógica de Negócio e Validação Dinâmica                             | Montador de Bolos          |
 |✅ 5   | 10/08/2025 |  Refinamento de UX/UI e Validação de Layout                          | Montador de Bolos          |
 |✅ 6  | 11/08/2025 |  Aprimoramento e Refatoração de UX/UI em JS e CSS                      | Montador de Bolos         |
+|✅ 7  | 14/08/2025 |  Surpresa.js: Um Presente de Aniversário Programado                    | Surpresa-Bela             |
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
