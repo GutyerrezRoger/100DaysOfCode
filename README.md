@@ -36,7 +36,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 5   | 10/08/2025 |  Refinamento de UX/UI e Validação de Layout                          | Montador de Bolos          |
 |✅ 6  | 11/08/2025 |  Aprimoramento e Refatoração de UX/UI em JS e CSS                      | Montador de Bolos         |
 |✅ 7  | 14/08/2025 |  Surpresa.js: Um Presente de Aniversário Programado                    | Surpresa-Bela             |
-|✅ 8  | 16/08/2025 | Refatoração, Otimização e Implementação de um Portfólio de Página Única| Portfólio Pessoal         |
+|✅ 8  | 16/08/2025 | Refatoração, Otimização e Implementação doPortfólio                    | Portfólio Pessoal         |
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
