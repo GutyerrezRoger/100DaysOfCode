@@ -21,6 +21,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 - ✅ Criar a versão 2.0 do site de **montagem de bolos personalizados**
 - ✅ Construir o **portfólio Dev**
 - ✅ Construir o **portfólio Fotográfico**
+- ⏳ Construir um **Projeto FullStack**
 - ➕ Adicionar novos projetos ao longo do desafio
 
 ---
@@ -37,6 +38,8 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 6  | 11/08/2025 |  Aprimoramento e Refatoração de UX/UI em JS e CSS                      | Montador de Bolos         |
 |✅ 7  | 14/08/2025 |  Surpresa.js: Um Presente de Aniversário Programado                    | Surpresa-Bela             |
 |✅ 8  | 16/08/2025 | Refatoração, Otimização e Implementação doPortfólio                    | Portfólio Pessoal         |
+|✅ 9  | 17/08/2025 | Finalização do Portfólio e Início dos Estudos em Dev. Fullstack        | Portfólio Pessoal         |
+
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
