@@ -18,9 +18,9 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 
 ## 🎯 Metas Iniciais
 
-- ✅ Criar a versão 2.0 do site de **montagem de bolos personalizados**  
-- ⏳ Construir o **portfólio Dev**
-- ⏳ Construir o **portfólio Fotográfico**
+- ✅ Criar a versão 2.0 do site de **montagem de bolos personalizados**
+- ✅ Construir o **portfólio Dev**
+- ✅ Construir o **portfólio Fotográfico**
 - ➕ Adicionar novos projetos ao longo do desafio
 
 ---
@@ -36,6 +36,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 5   | 10/08/2025 |  Refinamento de UX/UI e Validação de Layout                          | Montador de Bolos          |
 |✅ 6  | 11/08/2025 |  Aprimoramento e Refatoração de UX/UI em JS e CSS                      | Montador de Bolos         |
 |✅ 7  | 14/08/2025 |  Surpresa.js: Um Presente de Aniversário Programado                    | Surpresa-Bela             |
+|✅ 8  | 16/08/2025 | Refatoração, Otimização e Implementação de um Portfólio de Página Única| Portfólio Pessoal         |
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
 
@@ -43,6 +44,9 @@ _(Esse quadro continuará crescendo com os dias do desafio)_
 
 ## 🧠 Aprendizados e Reflexões
 
+- **Refatoração é a chave:** A lição de hoje foi a importância de refatorar e unificar o código. Ao transformar três páginas em uma, o projeto se tornou mais simples de manter, mais rápido e mais eficiente.
+- **Atenção aos detalhes visuais:** Ajustes finos no CSS, como o alinhamento de botões e o design dos cards, fazem uma enorme diferença na experiência do usuário.
+- **JavaScript para uma UX fluida:** O uso do JavaScript para a navegação de página única e a exibição de galerias internas é um passo crucial para um site moderno e profissional.
 
 ---
 
