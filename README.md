@@ -39,6 +39,8 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 7  | 14/08/2025 |  Surpresa.js: Um Presente de Aniversário Programado                    | Surpresa-Bela             |
 |✅ 8  | 16/08/2025 | Refatoração, Otimização e Implementação doPortfólio                    | Portfólio Pessoal         |
 |✅ 9  | 17/08/2025 | Finalização do Portfólio e Início dos Estudos em Dev. Fullstack        | Portfólio Pessoal         |
+|✅ 10 | 18/08/2025 | Estudos de animações e plugins                                          | Origamid                 |
+
 
 
 _(Esse quadro continuará crescendo com os dias do desafio)_
