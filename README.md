@@ -42,6 +42,7 @@ Este repositório é dedicado ao meu desafio pessoal de codar **1 hora por dia d
 |✅ 10 | 18/08/2025 | Estudos de animações e plugins                                          | Origamid                 |
 |✅ 11 | 19/08/2025 | Estudos de Formulários, Hospedagem e navegação por Tabs                 | Origamid                 |
 |✅ 12 | 21/08/2025 | Machine Learning, Deep Learning, LLMs, NLP e Agentes                    | Udemy                    |
+|✅ 13 | 26/08/2025 | Machine Learning, Deep Learning, LLMs, NLP e Agentes                    | Udemy                    |
 
 
 
